@@ -11,7 +11,7 @@
 pearson score : 0.88  
 f1 score: 0.87
 
-자세한 과정은 pdf 파일로 확인 가능합니다. 
+자세한 과정은 [pdf 파일](https://github.com/hajinjo/wanted_preonboarding_nlp/blob/main/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C/%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A63_%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5.pdf)로 확인 가능합니다. 
 
 [로컬호스트를 통해 결과를 확인 할 수 있는 Api 코드](https://github.com/hajinjo/pre_onboarding_assignment_FAST_API)
 
