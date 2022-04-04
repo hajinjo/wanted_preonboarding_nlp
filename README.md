@@ -1,6 +1,15 @@
 # wanted_preonboarding_nlp
 
-원티드 프리온보딩의 NLP 과정 1-3주차 과제 정리용 레포입니다. 
+<h2>원티드 프리온보딩의 NLP 과정 1-3주차 과제 정리용 레포입니다.</h2>
+
+<h3>week2 </h3> 
+2주차 과제 : Bert를 이용한 fine tuning 전반적인 과정 
+
+<h3>week3 </h3> 
+3주차 과제 : word2vec, transformer 구현
+
+<h3>기업과제</h3> 
+3주차 과제 : word2vec, transformer 구현
 
 1주차 과제와 3-3 과제는 블로그 정리로 블로그 링크로 대체합니다. 
 
