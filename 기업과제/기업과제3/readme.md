@@ -50,6 +50,6 @@ Klue STS(airbnb reviews, policy news, paraKQC)
 [로컬호스트를 통해 결과를 확인 할 수 있는 Api 코드](https://github.com/hajinjo/pre_onboarding_assignment_FAST_API)
 
 실행 스크린샷 
-![127 0 0 1_5000_](https://user-images.githubusercontent.com/83392231/161547179-dd1df4b0-a34e-4dfe-89e4-6fca61a8be73.png)
 
-![127 0 0 1_5000_result](https://user-images.githubusercontent.com/83392231/161547187-280c8bca-9966-479e-b60d-ea57aa834b19.png)
+![ㅇ](https://user-images.githubusercontent.com/83392231/163701176-f9961858-5de7-4173-8826-cd0fbf7150a4.png)
+
